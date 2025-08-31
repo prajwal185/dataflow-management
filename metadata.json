@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow",
+  "description": "A comprehensive task management platform built with React and Tailwind CSS. It features a dashboard, Kanban board, list view, reports, and persistent state management to streamline project workflows.",
+  "requestFramePermissions": []
+}
